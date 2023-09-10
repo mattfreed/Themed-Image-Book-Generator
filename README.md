@@ -8,7 +8,7 @@ This project is designed to automate the generation of a PDF book that pairs uni
 2. Creating image prompts for the MidJourney software using the `MidJourneyPromptGenerator.ipynb` Jupyter Notebook.
 3. Generating a PDF book that pairs the images with the poem themes using the `BookPDFGenerator.ipynb` Jupyter Notebook.
 
-<img src="/GIF/ezgif.com-gif-maker.gif" width="400"/>
+<img src="/GIF/ezgif.com-gif-maker.gif" width="400" class="center"/>
 
 ## Table of Contents
 
